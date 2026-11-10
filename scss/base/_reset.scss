@@ -1,4 +1,4 @@
-@use '../utilities/variables' as v;
+@use "../utilities/variables" as v;
 
 // Reseteo universal y control del box model
 * {
@@ -18,6 +18,15 @@
   --color-secondary: #{v.$color-secondary};
   --color-text-main: #{v.$color-text-main};
   --color-text-muted: #{v.$color-text-muted};
+
+  --font-heading:
+    "Orbitron", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  --font-body:
+    "Rajdhani", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  --transition-smooth: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
   --color-online: #{v.$color-online};
 
   --font-heading: #{v.$font-heading};
