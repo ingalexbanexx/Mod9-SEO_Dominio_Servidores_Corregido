@@ -60,3 +60,7 @@ entrega-seo-accesibilidad/
 1. **Sin Meta Keywords Obsoletas**: Se prescindió de `<meta name="keywords">` siguiendo los estándares oficiales de indexación modernos de Google.
 2. **Formularios Accesibles**: Cada campo (`<input>`, `<textarea>`) se encuentra estrictamente asociado a su `<label>` mediante el atributo `for` e `id` correspondiente.
 3. **Imágenes Semánticas**: Todas las imágenes se integran dentro de estructuras `<figure>` acompañadas de su respectivo `<figcaption>`.
+
+## Autor:
+Ing. Marcelo Alejandro Banega | AlexBanexx IT Soluciones Informáticas
+2026
